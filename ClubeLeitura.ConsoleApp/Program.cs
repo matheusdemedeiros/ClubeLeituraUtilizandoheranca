@@ -26,6 +26,7 @@ namespace ClubeLeitura.ConsoleApp
         static void Main(string[] args)
         {
             TelaMenuPrincipal menuPrincipal = new TelaMenuPrincipal();
+            
             Notificador notificador = new Notificador();
 
             // Instanciação de Caixas
